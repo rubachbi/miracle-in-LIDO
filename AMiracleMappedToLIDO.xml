@@ -1,0 +1,162 @@
+<lido:lido>
+  <lido:category>
+         <lido:conceptID lido:type="http://terminology.lido-schema.org/lido0099">http://terminology.lido-schema.org/lido0008xx</lido:conceptID>
+         <lido:term xml:lang="en">miraculously made subject</lido:term>
+  </lido:category>
+  <lido:descriptiveMetadata xml:lang="de">
+		<lido:subjectClassificationWrap>
+            <lido:subjectTypeWrap>
+               <lido:subjectType lido:type="http://terminology.lido-schema.org/lido00767">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4177745-1</lido:conceptID>
+                           <lido:term xml:lang="de-DE">Religionsstifter</lido:term>
+                           <lido:term xml:lang="en-US">founder of religion</lido:term>
+               </lido:subjectType>
+			   <lido:subjectType lido:type="http://terminology.lido-schema.org/lido00767">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4181727-8</lido:conceptID>
+                           <lido:term xml:lang="de-DE">Sohn Gottes</lido:term>
+                           <lido:term xml:lang="en-US">son of God</lido:term>
+               </lido:subjectType>
+            </lido:subjectTypeWrap>
+         </lido:subjectClassificationWrap>         
+         <lido:subjectIdentificationWrap>
+			<lido:subjectIdentification>
+				<lido:subjectPublishedID lido:pref="http://terminology.lido-schema.org/lido00169"
+                              lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/118557513
+				</lido:subjectPublishedID>
+				<lido:titleWrap>
+					<lido:titleSet lido:type="http://vocab.getty.edu/aat/300404688">
+						<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526"                               xml:lang="de-DE">"Jesus von Nazareth</lido:appellationValue>
+					</lido:titleSet>
+					<lido:titleSet lido:type="http://vocab.getty.edu/aat/300417209">
+						<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170" 
+						xml:lang="lat-LAT">Iesus Nazarenus Rex Iudaeorum</lido:appellationValue>
+					</lido:titleSet>
+				</lido:titleWrap>
+			</lido:subjectIdentification>
+		</lido:subjectIdentificationWrap>
+           <lido:eventWrap>
+            <lido:eventSet>	
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00028</lido:conceptID>
+                     <lido:term xml:lang="de">Daseinsbeginn</lido:term>
+                     <lido:term xml:lang="en">Beginning of existence</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole xml:lang="de-DE">Maria</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/118557513</lido:actorID>
+                           <lido:nameActorSet>
+								<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170"
+                                                     xml:lang="en-US">Virgin Mary</lido:appellationValue>
+								<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170"
+                                                     xml:lang="armi-ARMI">Mirjam</lido:appellationValue>
+								<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170"
+                                                     xml:lang="lat-LAT">Maria, Beata Virgo</lido:appellationValue>
+                           </lido:nameActorSet>
+						</lido:actor>
+							<lido:roleActor>
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4040949-1</lido:conceptID>
+								<lido:term xml:lang="de-DE">Mutter</lido:term>
+								<lido:term xml:lang="en-US">Mother</lido:term>
+							</lido:roleActor>
+							<lido:attributionQualifierActor>
+								<lido:sourceAppellation xml:lang="de-DE">Lk 2,7</lido:sourceAppellation>
+								<lido:sourceAppellation xml:lang="en-US">Luke 2,7</lido:sourceAppellation>
+							</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+				  <lido:eventActor>
+                     <lido:displayActorInRole xml:lang="de-DE">Josef</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/118558382</lido:actorID>
+                           <lido:nameActorSet>
+								<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170"
+                                                     xml:lang="en-US">Joseph, of Nazareth</lido:appellationValue>
+								<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170"
+                                                     xml:lang="de-DE">Josef, der Zimmermann</lido:appellationValue>
+							</lido:nameActorSet>
+						</lido:actor>
+							<lido:roleActor>
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4311677-2</lido:conceptID>
+								<lido:term xml:lang="de-DE">Stiefvater</lido:term>
+								<lido:term xml:lang="en-US">Stepfather</lido:term>
+							</lido:roleActor>
+							<lido:attributionQualifierActor>
+								<lido:sourceAppellation xml:lang="de-DE">Mt 1,20-21</lido:sourceAppellation>
+								<lido:sourceAppellation xml:lang="en-US">Matthew 1,20-21</lido:sourceAppellation>
+							</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+				   <lido:eventActor>
+                     <lido:displayActorInRole xml:lang="de-DE">Heiliger Geist</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4024056-3</lido:actorID>
+							<lido:nameActorSet>
+								<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00170"
+                                                     xml:lang="en-US">Holy Spirit</lido:appellationValue>
+							</lido:nameActorSet>
+						</lido:actor>
+							<lido:roleActor>
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4062386-5</lido:conceptID>
+								<lido:term xml:lang="de-DE">Vater</lido:term>
+								<lido:term xml:lang="en-US">Father</lido:term>
+							</lido:roleActor>
+							<lido:attributionQualifierActor>
+								<lido:sourceAppellation xml:lang="de-DE">Lk 1, 35</lido:sourceAppellation>
+								<lido:sourceAppellation xml:lang="en-US">Luke 1, 35</lido:sourceAppellation>
+							</lido:attributionQualifierActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300111192</lido:conceptID>
+                     <lido:term xml:lang="en-US">Jewish</lido:term>
+                     <lido:term xml:lang="de-DE">Jüdisch</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                     <lido:displayDate>24.Dezember 0000</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>0000</lido:earliestDate>
+                        <lido:latestDate>0000</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:periodName>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300021140</lido:conceptID>
+                     <lido:term xml:lang="en-US">Antiquity</lido:term>
+                     <lido:term xml:lang="de-DE">Antike</lido:term>
+                  </lido:periodName>
+				  <lido:eventPlace>
+                     <lido:place>
+						<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.wikidata.org/entity/Q5776</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue xml:lang="de">Bethlehem</lido:appellationValue>
+                     </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:displayMaterialsTech xml:lang="en-US">immaculate conception</lido:displayMaterialsTech>
+                     <lido:displayMaterialsTech xml:lang="de-DE">unbefleckte Empfängnis</lido:displayMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00513">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"> http://d-nb.info/gnd/4138223-7</lido:conceptID>
+                           <lido:term xml:lang="en-US">conception</lido:term>
+                           <lido:term xml:lang="de-DE">Empfängnis</lido:term>
+                        </lido:termMaterialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4138223-7</lido:conceptID>
+                           <lido:term xml:lang="de-DE">unbefleckt</lido:term>
+                           <lido:term xml:lang="en-US">immaculate</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+				  <lido:eventDescriptionSet>
+					<lido:descriptiveNoteValue>1 Es begab sich aber zu der Zeit, dass ein Gebot von dem Kaiser Augustus ausging, dass alle Welt geschätzt würde. 2 Und diese Schätzung[1] war die allererste und geschah zur Zeit, da Quirinius Statthalter in Syrien war. 3 Und jedermann ging, dass er sich schätzen ließe, ein jeglicher in seine Stadt. 4 Da machte sich auf auch Josef aus Galiläa, aus der Stadt Nazareth, in das judäische Land zur Stadt Davids, die da heißt Bethlehem, darum dass er von dem Hause und Geschlechte Davids war, 5 auf dass er sich schätzen ließe mit Maria, seinem vertrauten Weibe[2]; die war schwanger. 6 Und als sie daselbst waren, kam die Zeit, dass sie gebären sollte. 7 Und sie gebar ihren ersten Sohn und wickelte ihn in Windeln und legte ihn in eine Krippe; denn sie hatten sonst keinen Raum in der Herberge. 8 Und es waren Hirten in derselben Gegend auf dem Felde bei den Hürden, die hüteten des Nachts ihre Herde. 9 Und des Herrn Engel trat zu ihnen, und die Klarheit des Herrn leuchtete um sie; und sie fürchteten sich sehr. 10 Und der Engel sprach zu ihnen: Fürchtet euch nicht! Siehe, ich verkündige euch große Freude, die allem Volk widerfahren wird; 11 denn euch ist heute der Heiland geboren, welcher ist Christus, der Herr, in der Stadt Davids. 12 Und das habt zum Zeichen: Ihr werdet finden das Kind in Windeln gewickelt und in einer Krippe liegen. 13 Und alsbald war da bei dem Engel die Menge der himmlischen Heerscharen, die lobten Gott und sprachen: 14 Ehre sei Gott in der Höhe und Friede auf Erden bei den Menschen seines Wohlgefallens[3]. 15 Und da die Engel von ihnen gen Himmel fuhren, sprachen die Hirten untereinander: Lasst uns nun gehen gen Bethlehem und die Geschichte sehen, die da geschehen ist, die uns der Herr kundgetan hat. 16 Und sie kamen eilend und fanden beide, Maria und Josef, dazu das Kind in der Krippe liegen. 17 Da sie es aber gesehen hatten, breiteten sie das Wort aus, welches zu ihnen von diesem Kinde gesagt war. 18 Und alle, vor die es kam, wunderten sich über die Rede, die ihnen die Hirten gesagt hatten. 19 Maria aber behielt alle diese Worte und bewegte sie in ihrem Herzen. 20 Und die Hirten kehrten wieder um, priesen und lobten Gott für alles, was sie gehört und gesehen hatten, wie denn zu ihnen gesagt war.</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+           </lido:eventSet>
+		 </lido:eventWrap>
+	</lido:descriptiveMetadata>
+</lido:lido>
